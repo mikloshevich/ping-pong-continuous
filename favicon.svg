@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 <svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
     <ellipse stroke-width="0" stroke="#fff" ry="450" rx="450" id="svg_1" cy="500" cx="500" fill="#f57a3d"/>
+=======
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+    <ellipse stroke-width="0" stroke="#fff" ry="450" rx="450" id="svg_1" cy="500" cx="500" fill="#f57a3d"/>
+>>>>>>> 08e6d43a56df9441c86aaaa535937c1582bd5664
 </svg>

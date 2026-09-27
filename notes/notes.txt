@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here are some links on conservative advancement (best read in the order I posted the links):
 http://www.continuousphysics.com/BulletContinuousCollisionDetection.pdf
 http://www.kuffner.org/james/software/dynamics/mirtich/index.html
@@ -10,4 +11,18 @@ http://www.dtecta.com/interesting/
 
 FAST and CATCH
 http://graphics.ewha.ac.kr/FAST/
+=======
+Here are some links on conservative advancement (best read in the order I posted the links):
+http://www.continuousphysics.com/BulletContinuousCollisionDetection.pdf
+http://www.kuffner.org/james/software/dynamics/mirtich/index.html
+
+Gino v.d. Bergen's publications:
+http://www.dtecta.com/papers/jgt04raycast.pdf
+
+And all his GDC presentations which can be downloaded here:
+http://www.dtecta.com/interesting/
+
+FAST and CATCH
+http://graphics.ewha.ac.kr/FAST/
+>>>>>>> 08e6d43a56df9441c86aaaa535937c1582bd5664
 http://graphics.ewha.ac.kr/CATCH/

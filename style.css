@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -34,3 +35,41 @@ body {
     position: absolute;
     background-color: #333535;
 }
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #232525;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-wrapper {
+    /*aspect-ratio: 16 / 9;
+    width: min(100vw, calc(100vh * (16 / 9)));
+    height: min(100vh, calc(100vw * (9 / 16)));*/
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #454545;
+    overflow: hidden;
+}
+
+#game-canvas {
+    position: absolute;
+    background-color: #333535;
+}
+>>>>>>> 08e6d43a56df9441c86aaaa535937c1582bd5664
